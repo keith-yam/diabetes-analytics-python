@@ -22,7 +22,8 @@ The analysis is based on the [2015 BRFSS dataset](https://www.kaggle.com/dataset
   - `Scikit-learn` (Machine Learning Pipeline)
   - `Matplotlib` & `Seaborn` (Data Visualization)
   - `Imbalanced-learn` (SMOTE/ADASYN for class balancing)
-
+  - `SHAP` (Interpretability)
+ 
 ## 🚀 Workflow
 
 ### 1. Data Cleaning & EDA
