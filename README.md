@@ -54,5 +54,4 @@ Used **GridSearchCV** and **RandomizedSearchCV** to optimize model parameters, f
 ```text
 ├── diabetes.ipynb          # Full Jupyter Notebook with analysis and code
 ├── data/                   # (Optional) Folder for the raw/processed datasets
-├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
